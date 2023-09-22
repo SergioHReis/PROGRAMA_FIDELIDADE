@@ -1,7 +1,7 @@
 # PROGRAMA_FIDELIDADE #
 
 Programa de Fidelidade para Clientes de Varejo
-Descrição:
+
 
 Este é um programa de fidelidade desenvolvido em Python para clientes de varejo. O programa permite que os clientes acumulem pontos com base em suas compras e oferece várias opções, incluindo consulta de pontos, listagem de clientes, exibição de pontos totais acumulados, simulação de compra e feedback.
 
