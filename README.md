@@ -1,4 +1,4 @@
-# PROGRAMA_FIDELIDADE
+# PROGRAMA_FIDELIDADE #
 
 Programa de Fidelidade para Clientes de Varejo
 Descrição:
