@@ -29,6 +29,4 @@ Consulte pontos, liste clientes, exiba pontos totais, simule compras e colete fe
 
 Saia do programa quando desejar.
 
-Autor:
-
-Desenvolvido por Sérgio Henrique Reis Sá
+#Desenvolvido por Sérgio Henrique Reis Sá#
